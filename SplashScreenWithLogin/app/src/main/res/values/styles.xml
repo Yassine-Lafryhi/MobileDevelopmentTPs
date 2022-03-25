@@ -1,0 +1,17 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/font</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/app_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="android:windowSplashScreenAnimationDuration">2000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/colorAccent</item>
+        <item name="postSplashScreenTheme">@style/AppTheme</item>
+    </style>
+
+</resources>
