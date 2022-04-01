@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Yellow" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryDark">@color/yellow_dark</item>
+        <item name="colorAccent">@color/yellow_dark</item>
+        <item name="android:fontFamily">@font/font</item>
+    </style>
+
+    <style name="Theme.Red" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/red_dark</item>
+        <item name="colorAccent">@color/red_dark</item>
+        <item name="android:fontFamily">@font/font</item>
+    </style>
+
+    <style name="Theme.Blue" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue_dark</item>
+        <item name="colorAccent">@color/blue_dark</item>
+        <item name="android:fontFamily">@font/font</item>
+    </style>
+
+    <style name="Theme.Purple" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryDark">@color/purple_dark</item>
+        <item name="colorAccent">@color/purple_dark</item>
+        <item name="android:fontFamily">@font/font</item>
+    </style>
+
+    <style name="Theme.Green" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/green_dark</item>
+        <item name="colorAccent">@color/green_dark</item>
+        <item name="android:fontFamily">@font/font</item>
+    </style>
+
+    <style name="Theme.Black" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black_dark</item>
+        <item name="colorAccent">@color/black_dark</item>
+        <item name="android:fontFamily">@font/font</item>
+    </style>
+
+    <style name="Theme.Orange" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryDark">@color/orange_dark</item>
+        <item name="colorAccent">@color/orange_dark</item>
+        <item name="android:fontFamily">@font/font</item>
+    </style>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Theme de l'application">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="RED"
+            android:summary="Red Theme"
+            android:title="Red Theme" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="YELLOW"
+            android:summary="yellow Theme"
+            android:title="yellow Theme" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="BLACK"
+            android:summary="black Theme"
+            android:title="black Theme" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="BLUE"
+            android:summary="blue Theme"
+            android:title="blue Theme" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="GREEN"
+            android:summary="green Theme"
+            android:title="green Theme" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="ORANGE"
+            android:summary="orange Theme"
+            android:title="orange Theme" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="PURPLE"
+            android:summary="purple Theme"
+            android:title="purple Theme" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
